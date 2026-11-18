@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/testnetFDN/makefun-getting-started-2026/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/testnetFDN/makefun-getting-started-2026/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
+<p align="center"><a href="https://make.fun/r/9fgvvrhd"><img src="./stats.svg" alt="make.fun Bounty Prize Pools and Verification Pipeline" width="100%" /></a></p>
+
 # 🚀 Getting Started with make.fun (2026 Edition)
 
 [![Join make.fun](https://img.shields.io/badge/Join%20make.fun-Referral%209fgvvrhd-10b981?style=for-the-badge)](https://make.fun/r/9fgvvrhd)
